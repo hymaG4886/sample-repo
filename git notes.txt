@@ -1,0 +1,32 @@
+code repository -- code storage
+
+GitHub
+cmds - operate
+
+git clone--copy
+git add
+git commit 
+git pull
+git push
+
+
+helper
+git status
+git branch
+git checkout
+
+
+
+
+git clone url  -- to clone the project
+git branch  -- to know the currenct branch
+git checkout branchname-- change to another branch
+git fetch --  to fetch latest created changes
+
+git status -- to check changes 
+
+git add . -- to keep all files  ready for commit 
+git add filepath -- to keep single file ready for commit
+
+
+
