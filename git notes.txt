@@ -36,10 +36,13 @@ git push
 git pull --  take latest from current branch
 git pull origin branchname  -- to take latestcode from givenbranch
 
-CHANGES-->ADD--> COMMIT-->PULL--> PUSH--PULL REQ FROM MY BRANCH TO DEV  -->MERGE  -->PULL REQ FROM DEV TO MAIN-->MERGE
+CHANGES-->ADD--> COMMIT--> PUSH--PULL REQ FROM MY BRANCH TO DEV  -->MERGE  -->PULL REQ FROM DEV TO MAIN-->MERGE
 
 
 added new line information
+
+
+add enduku enter chesav pull      
 
 add -- intimate 
 commit - confirm
